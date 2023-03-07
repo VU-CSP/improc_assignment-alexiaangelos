@@ -41,3 +41,5 @@ A4) Put your answer here.  **255**
 You will do a first-pass assessment of the segmentation output by analyzing the size of the particles using Python...  
 
 Open the [SizeAnalysis.ipynb](SizeAnalysis.ipynb) file and follow instructions in that file (you will be plotting a histogram of the sizes of the segmented objects and describing the output).  
+<img width="734" alt="Screen Shot 2023-03-06 at 8 10 01 PM" src="https://user-images.githubusercontent.com/122379540/223301344-6494cfeb-2b83-433d-814d-9229da604863.png">
+<img width="1167" alt="Screen Shot 2023-03-06 at 8 10 22 PM" src="https://user-images.githubusercontent.com/122379540/223301396-eb170af4-0d86-44e5-8896-91b0b6bdbb85.png">
