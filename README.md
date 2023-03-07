@@ -36,7 +36,7 @@ Also save the resultant "Count Mask" image file with the name "Count_Mask_229461
 **NOTE: my image is fine on my computer but when I upload it it's just black. Not sure how to resolve this**
 
 Q4) How many particles were detected?  
-A4) Put your answer here.  **255**
+A4) Put your answer here.  **575**
 
 You will do a first-pass assessment of the segmentation output by analyzing the size of the particles using Python...  
 
