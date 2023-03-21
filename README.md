@@ -9,7 +9,7 @@ You can [download FIJI here](https://fiji.sc)
 #### *Task 1:*
 Answer the following questions about the [Phase contrast](image_files/PhaseContrast.tif) and [Differential interference contrast](image_files/DifferentialInterference.tif) images:
 Q1) What is the maximum intensity value in the [Differential interference contrast](image_files/DifferentialInterference.tif) file? 
-A1) Put your answer here.  **value #95 at 3029 (gotten from histogram)**
+A1) Put your answer here.  **value #95 at 3029 (gotten from histogram), so 255**
 
 Q2) What are the dimensions of the [Phase contrast](image_files/PhaseContrast.tif) file?  
 A2) Put your answer here in the form of (X, Y, BitDepth).  **(314x226 pixels, 8-bit)**
